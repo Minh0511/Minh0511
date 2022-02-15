@@ -26,6 +26,6 @@ Welcome to my Github page! I'm just a normal guy who interested in technologies 
 #### :computer: Programming languages and tools: 
 
 <div>
-	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=thainm-uet&show_icons=true&theme=monokai" />
-	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainm-uet&layout=compact&theme=monokai" />
+	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=Minh0511&show_icons=true&theme=monokai" />
+	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minh0511&layout=compact&theme=monokai" />
 </div>
