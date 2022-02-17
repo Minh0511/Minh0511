@@ -13,7 +13,7 @@ Welcome to my Github page! I'm just a normal guy who interested in technologies 
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Science at University of Engineering and Technology, Vietnam National University.
+- Finish my Computer Science Degree at University of Engineering and Technology, Vietnam National University.
 - Honing my skill as a backend wev developer, after that, become a fullstack developer.
 - Studying about cloud computing
 
