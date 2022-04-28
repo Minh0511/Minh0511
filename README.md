@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vuminhpham/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vuminhpham2001@gmail.com)
 
-Welcome to my Github page! I'm just a normal guy who interested in technologies, gaming and cooking. I prefer to do teamwork than solo work. My goal is to become successful in life and define who i am, figure out my own meaning of existence!
+Welcome to my Github page! I'm just a normal guy who interested in technologies, gaming and cooking. I prefer teamwork to solo work. My goal is to become successful in life and define who i am, figure out my own meaning of existence!
 
 "In order to discover your passion, you must try many things. Only by knowing what you hate can you know what you love. And only by falling can you know how to get up" - Sun Tzu, probably 
 
