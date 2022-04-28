@@ -18,7 +18,7 @@ Welcome to my Github page! I'm just a normal guy who interested in technologies,
 - Studying about cloud computing
 
 #### :muscle: Things I am challenging myself with:
-- Trying to loose some weight and get a GF
+- Trying to loose some weight and get ripped
 - Studying without being distracted
 - Push my GPA to be higher than 3.2
 - Getting better and clearer knowledge of Web developing and Cloud engineering
