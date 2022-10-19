@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vuminhpham/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vuminhpham2001@gmail.com)
 
-Welcome to my Github page! I'm just a normal guy who interested in technologies, gaming and cooking. I prefer teamwork to solo work. My goal is to become successful in life and define who i am, figure out my own meaning of existence!
+Welcome to my Github page! I'm just a normal guy who interested in technologies, gaming and cooking. I prefer teamwork to solo work. My one and only goal is to be happy.
 
 "In order to discover your passion, you must try many things. Only by knowing what you hate can you know what you love. And only by falling can you know how to get up" - Sun Tzu, probably 
 
@@ -14,14 +14,13 @@ Welcome to my Github page! I'm just a normal guy who interested in technologies,
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science Degree at University of Engineering and Technology, Vietnam National University.
-- Honing my skill as a backend wev developer, after that, become a fullstack developer.
-- Studying about cloud computing
+- Honing my skill as a backend wev developer, after that, become a fullstack developer
 
 #### :muscle: Things I am challenging myself with:
 - Trying to loose some weight and get ripped
 - Studying without being distracted
 - Push my GPA to be higher than 3.2
-- Getting better and clearer knowledge of Web developing and Cloud engineering
+- Getting better and clearer knowledge of Web developing
 
 #### :computer: Programming languages and tools: 
 
