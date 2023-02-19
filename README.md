@@ -9,7 +9,7 @@ Welcome to my Github page! I'm just a normal guy who interested in technologies,
 
 "In order to discover your passion, you must try many things. Only by knowing what you hate can you know what you love. And only by falling can you know how to get up" - Sun Tzu, probably 
 
-<img align="right" alt="img" src="bocchi.jpg" width="50%" height="300px" />
+<img align="right" alt="img" src="bocchi.jpg" width="60%" height="300px" />
 
 
 #### 🌱 Things I am currently working on: 
