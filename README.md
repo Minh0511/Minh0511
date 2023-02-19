@@ -5,11 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vuminhpham/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vuminhpham2001@gmail.com)
 
-Welcome to my Github page! I'm just a normal guy who interested in technologies, gaming and cooking. I prefer teamwork to solo work. My one and only goal is to be happy.
+Welcome to my Github page! I'm just a normal guy who interested in technologies, gaming, cooking, and anime. I prefer teamwork to solo work. My one and only goal is to be happy.
 
 "In order to discover your passion, you must try many things. Only by knowing what you hate can you know what you love. And only by falling can you know how to get up" - Sun Tzu, probably 
 
-<img align="right" alt="img" src="https://github.com/Minh0511/Minh0511/blob/main/bocchi.jpg" width="50%" height="300px" />
+<img align="right" alt="img" src="bocchi.jpg" width="50%" height="300px" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -19,7 +19,6 @@ Welcome to my Github page! I'm just a normal guy who interested in technologies,
 #### :muscle: Things I am challenging myself with:
 - Trying to loose some weight and get ripped
 - Studying without being distracted
-- Push my GPA to be higher than 3.2
 - Getting better and clearer knowledge of Web developing
 
 #### :computer: Programming languages and tools: 
