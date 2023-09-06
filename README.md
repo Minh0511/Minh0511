@@ -19,7 +19,9 @@ Welcome to my Github page! I'm just a normal guy who interested in technologies,
 - Trying to loose some weight and get ripped
 - Getting better and clearer knowledge of Web developing
 
-#### :computer: Programming languages and tools: 
+#### :computer: Programming languages and tools:  
+
+
 
 <div>
 	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=Minh0511&show_icons=true&theme=monokai" />
