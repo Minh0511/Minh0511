@@ -13,12 +13,10 @@ Welcome to my Github page! I'm just a normal guy who interested in technologies,
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Science Degree at University of Engineering and Technology, Vietnam National University.
-- Honing my skill as a backend wev developer, after that, become a fullstack developer
+- Honing my skill as a backend web developer, after that, become a fullstack developer
 
 #### :muscle: Things I am challenging myself with:
 - Trying to loose some weight and get ripped
-- Studying without being distracted
 - Getting better and clearer knowledge of Web developing
 
 #### :computer: Programming languages and tools: 
