@@ -11,8 +11,6 @@ Welcome to my Github page! I'm just a normal guy who interested in technologies,
 
 My motto of life is "Just do what needs to be done, don't do things that are meaningless and unnecessary."
 
-<img align="right" alt="img" src="bocchi.jpg" width="60%" height="300px" />
-
 
 #### 🌱 Things I am currently working on: 
 - Honing my skill as a backend web developer, after that, become a fullstack developer
