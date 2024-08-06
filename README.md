@@ -9,11 +9,11 @@ Welcome to my Github page! I'm just a normal guy who interested in technologies,
 
 "In order to discover your passion, you must try many things. Only by knowing what you hate can you know what you love. And only by falling can you know how to get up" - Sun Tzu, probably 
 
-My motto of life is "Just do what needs to be done, don't do things that are meaningless and unnecessary."
+My motto of life is "Follow the path of Elation"
 
 
 #### 🌱 Things I am currently working on: 
-- Honing my skill as a backend web developer, after that, become a fullstack developer
+- Honing my skill as a frontend web developer, after that, become a fullstack developer
 
 #### :muscle: Things I am challenging myself with:
 - Trying to loose some weight and get ripped
