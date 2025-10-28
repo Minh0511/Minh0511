@@ -13,7 +13,7 @@ My motto of life is "Follow the path of Elation"
 
 
 #### 🌱 Things I am currently working on: 
-- Honing my skill as a frontend web developer, after that, become a fullstack developer
+- Honing my skill as a fullstack developer
 
 #### :muscle: Things I am challenging myself with:
 - Trying to loose some weight and get ripped
